@@ -30,6 +30,14 @@
 
 
 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="10"
+  >
+
 
 
 
@@ -43,6 +51,16 @@
   <em>Just a Human In The Loop</em>
 </p>
 
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="50"
+  >
+
+
 <h2 align="left"><strong>What am I doing?</strong></h2>
 <ul style="line-height: 1.8;">
   <li><strong>Building autonomous agents</strong> so they can take over the boring tasks (and maybe the world someday)</li>
@@ -51,6 +69,16 @@
   <li><strong>Using MCP and RAG</strong> to confuse both machines and humans alike</li>
   <li><strong>Working on an autonomous stock trading environment</strong> — teaching AI to lose money faster than I can</li>
 </ul>
+
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="50"
+  >
+
 
 <h2 align="left"><strong>What do I know?</strong></h2>
 <ul style="line-height: 1.8;">
@@ -63,6 +91,15 @@
   <li><strong>Almost all core Engineering subjects</strong> — a lifetime subscription to "I survived engineering school" therapy</li>
 </ul>
 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="50"
+  >
+
+
 <h2 align="left"><strong>🏆 What I have done?</strong></h2>
 <ul style="line-height: 1.8;">
   <li><strong>Built a RAG-based chatbot</strong> deployed on my portfolio site to answer recruiter stalkers' questions — and promptly snitch if they get weird</li>
@@ -72,6 +109,17 @@
   <li><strong>Built an autonomous SDR</strong> that writes and sends cold emails — so I can ghost people professionally</li>
   <li><strong>Completed a hell lot of toy ML and deep learning projects</strong> — but don't let that fool you, I've got concepts down cold</li>
 </ul>
+
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="50"
+  >
+
+
 
 <h2 align="left"><strong>What I can do?</strong></h2>
 <ul style="line-height: 1.8;">
@@ -90,53 +138,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="10"
+  >
 
 
 
@@ -158,6 +166,37 @@
 
 
 
+
+
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="10"
+  >
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Have%20a%20Good%20Day!!&fontSize=40&animation=twinkling&type=waving&color=0:925FA1,100:71AEBF&height=100&stroke=3B241F&fontColor=EFD8F0&strokeWidth=0.5&section=footer" />
 </p>
+
+
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="10"
+  >
+
+  <p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216656999-c53f8286-1ed5-4dc0-9c4d-165b9dd4a89d.gif" 
+    alt="Demo GIF" 
+    width="100" 
+    height="100"
+  >
