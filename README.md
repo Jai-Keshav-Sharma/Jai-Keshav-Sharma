@@ -7,4 +7,4 @@
   <img src="https://capsule-render.vercel.app/api?text=Have%20A%20Great%20Day!!&animation=twinkling&type=waving&color=timeGradient&height=100&section=footer&stroke=522318&strokeWidth=0.5&fontSize=50" />
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jai-Keshav-Sharma/Jai-Keshav-Sharma/blob/output/github-contribution-grid-snake.svg)
