@@ -217,10 +217,7 @@
          alt="GIF 3" style="width: 150px; height: auto; border-radius: 8px;">
   </a>
 
-  <a href="https://x.com/McDonald9719" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-         alt="GIF 3" style="width: 150px; height: auto; border-radius: 8px;">
-  </a>
+
 
 </div>
 
