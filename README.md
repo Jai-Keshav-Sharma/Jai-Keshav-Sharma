@@ -179,6 +179,44 @@
 
 
 
+
+
+
+
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/jai-keshav-sharma/" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+         alt="GIF 1" style="width: 150px; height: auto; border-radius: 8px;">
+  </a>
+
+  <a href="https://www.instagram.com/sarcastic__pandit/" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" 
+         alt="GIF 2" style="width: 150px; height: auto; border-radius: 8px;">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100022927920815" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" 
+         alt="GIF 3" style="width: 150px; height: auto; border-radius: 8px;">
+  </a>
+
+  <a href="https://discord.gg/W8cqTbhu" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" 
+         alt="GIF 3" style="width: 150px; height: auto; border-radius: 8px;">
+  </a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Have%20a%20Good%20Day!!&fontSize=40&animation=twinkling&type=waving&color=0:925FA1,100:71AEBF&height=100&stroke=3B241F&fontColor=EFD8F0&strokeWidth=0.5&section=footer" />
 </p>
