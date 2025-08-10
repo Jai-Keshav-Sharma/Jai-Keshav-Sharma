@@ -17,17 +17,36 @@
 
 <!--LOGOS-->
 <h2>🖥️ Programming Languages</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" width="35" height="35" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" width="35" height="35" style="margin-right:10px;">
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" width="35" height="35" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="35" height="35">
+</p>
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c%2B%2B)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=R)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Git)](https://github.com/harish-sethuraman/readme-components)
 
-<h2>📚 Frameworks & Libraries</h2>
+<h2>📚 Libraries</h2>
+<p align="left">
+  <img src="https://sklearn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="35" height="35" style="margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="35" height="35" style="margin-right:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="35" height="35" style="margin-right:10px;">
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="35" height="35" style="margin-right:10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" width="35" height="35" style="margin-right:10px;">
+  <!-- Placeholder icons for Pydantic & TypedDict -->
+  <img src="https://docs.pydantic.dev/latest/logo-white.svg" alt="Pydantic" width="35" height="35" style="margin-right:10px;">
+  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="35" height="35">
+</p>
 
-<a href="https://langchain.com">
-  <img src="https://seeklogo.com/vector-logo/611655/langchain-icon" alt="LangChain" width="50" height="50">
-</a>
+<h2>⚙️ Generative and Agentic AI Frameworks</h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=750&size=22&duration=3000&pause=200&color=876A9E&background=E8C3FC00&vCenter=true&width=300&lines=LangChain;LangGraph;CrewAI;Microsoft+AutoGen;OpenAI+Agents+SDK;Model+Context+Protocol)](https://git.io/typing-svg)
+
+
+<h2>🔄 Version Control</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="35" height="35" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="35" height="35">
+</p>
 
 
 
