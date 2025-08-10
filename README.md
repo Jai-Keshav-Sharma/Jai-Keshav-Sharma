@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Glad%20to%20see%20you're%20here!&fontSize=40&animation=fadeIn&type=venom&color=0:925FA1,100:71AEBF&height=100&stroke=3B241F&fontColor=EFD8F0&strokeWidth=0.5" />
 </p>
@@ -6,6 +7,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=300&color=EC8FF3FF&background=E8C3FC5B&center=true&vCenter=true&width=1300&lines=Hi!+I+am+Jai+Keshav+Sharma.;Undergrad+specializing+in+Artificial+Intelligence%2C+pursuing+a+B.Tech+(Honours)+degree." alt="Typing SVG" /></a>
 
 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="50"
+  >
 
 <!---GIF ------- 
 <p align="center">
@@ -32,10 +40,10 @@
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
     alt="Demo GIF" 
     width="100%" 
-    height="10"
+    height="50"
   >
 
 
@@ -138,24 +146,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
     alt="Demo GIF" 
     width="100%" 
-    height="10"
+    height="50"
   >
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -171,12 +179,11 @@
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
     alt="Demo GIF" 
     width="100%" 
-    height="10"
+    height="50"
   >
-
 
 
 
@@ -210,7 +217,13 @@
 
 
 
-
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+    alt="Demo GIF" 
+    width="100%" 
+    height="50"
+  >
 
 
 
@@ -225,10 +238,10 @@
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
     alt="Demo GIF" 
     width="100%" 
-    height="10"
+    height="50"
   >
 
   <p align="center">
