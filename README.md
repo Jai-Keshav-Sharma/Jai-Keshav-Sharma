@@ -5,6 +5,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=300&color=EC8FF3FF&background=E8C3FC5B&center=true&vCenter=true&width=1300&lines=Hi!+I+am+Jai+Keshav+Sharma;Undergrad+Scholar+specializing+in+Artificial+Intelligence%2C+pursuing+a+B.Tech+(Honours)+degree." alt="Typing SVG" /></a>
 
+<!---GIF ---------> 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" 
+    alt="Demo GIF" 
+    width="400" 
+    height="250"
+  >
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Have%20a%20Good%20Day!!&fontSize=40&animation=twinkling&type=waving&color=0:925FA1,100:71AEBF&height=100&stroke=3B241F&fontColor=EFD8F0&strokeWidth=0.5&section=footer" />
 </p>
