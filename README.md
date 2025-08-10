@@ -15,6 +15,23 @@
   >
 </p>
 
+<!--LOGOS-->
+<h2>🖥️ Programming Languages</h2>
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c%2B%2B)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=R)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Git)](https://github.com/harish-sethuraman/readme-components)
+
+<h2>📚 Frameworks & Libraries</h2>
+
+<a href="https://langchain.com">
+  <img src="https://seeklogo.com/vector-logo/611655/langchain-icon" alt="LangChain" width="50" height="50">
+</a>
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Have%20a%20Good%20Day!!&fontSize=40&animation=twinkling&type=waving&color=0:925FA1,100:71AEBF&height=100&stroke=3B241F&fontColor=EFD8F0&strokeWidth=0.5&section=footer" />
