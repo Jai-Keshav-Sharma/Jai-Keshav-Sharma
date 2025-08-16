@@ -1,5 +1,5 @@
 
-
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Glad%20to%20see%20you're%20here!&fontSize=40&animation=fadeIn&type=venom&color=0:925FA1,100:71AEBF&height=100&stroke=3B241F&fontColor=EFD8F0&strokeWidth=0.5" />
 </p>
@@ -186,8 +186,7 @@
   >
 
 
-![psd-dude-scrolling-text (1)](https://github.com/user-attachments/assets/0179a9e9-07bb-4875-8685-041cd006a056)
-
+![psd-dude-scrolling-text](https://github.com/user-attachments/assets/e62349e6-4591-469a-87e2-d98a575198b8)
 
 
 
