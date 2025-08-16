@@ -186,7 +186,8 @@
   >
 
 
-![psd-dude-scrolling-text](https://github.com/user-attachments/assets/e62349e6-4591-469a-87e2-d98a575198b8)
+![psd-dude-scrolling-text (2)](https://github.com/user-attachments/assets/68640fcc-5f74-4faf-908b-553b82fad994)
+
 
 
 
