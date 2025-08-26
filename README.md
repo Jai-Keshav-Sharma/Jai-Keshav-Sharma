@@ -113,6 +113,8 @@
   <li><strong>Built a RAG-based chatbot</strong> deployed on my portfolio site to answer recruiters' and stalkers' questions — and promptly snitch if they get weird</li>
   <li><strong>Created a Multi-Agent Deep Research ecosystem</strong> running async magic with MCP servers — because one AI just wasn't enough chaos</li>
   <li><strong>Assembled a multi-agent AI engineering team</strong> with a lead, frontend, backend, and tester — all working tirelessly to do my bidding</li>
+  <li><strong>Fine-Tuned Llama-3.1-8B</strong> for predicting Product prices by their descriptions, with Mean Error of $47.  </li>
+  <li><strong> Built a Self-Organizing AI Idea Refinement Ecosystem </strong>- an army of AI agents arguing with each other until they ‘accidentally’ invent something smarter than me. Zero human intervention, maximum existential dread. </li>
   <li><strong>Developed an AI agent that spawns other AI agents</strong> who argue and collaborate to optimize ideas — basically my own little AI soap opera</li>
   <li><strong>Built an autonomous SDR</strong> that writes and sends cold emails — so I can ghost people professionally</li>
   <li><strong>Completed a hell lot of toy ML and deep learning projects</strong> — but don't let that fool you, I've got concepts down cold</li>
