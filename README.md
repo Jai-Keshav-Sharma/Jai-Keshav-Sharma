@@ -93,6 +93,7 @@
   <li><strong>Generative AI Frameworks:</strong> LangChain, HuggingFace — teaching machines to talk so they can ignore me better</li>
   <li><strong>Agentic AI Frameworks:</strong> LangGraph, OpenAI Agents SDK, CrewAI, AutoGen, MCP — giving AI just enough freedom to cause chaos</li>
   <li><strong>LLM Engineering:</strong> RAG, Fine-Tuning, Context Engineering — because apparently, telling AI what I want is rocket science</li>
+  <li><strong>LLMOps / AIOps</strong> — “trust me, it scales”</li>
   <li><strong>Machine Learning & Deep Learning Algorithms</strong> — the wizardry behind all my AI "accidents"</li>
   <li><strong>Natural Language Processing</strong> — making computers pretend they get human nonsense</li>
   <li><strong>Data Structures & Algorithms in C++</strong> — because sometimes you need to make things <em>needlessly</em> complicated</li>
