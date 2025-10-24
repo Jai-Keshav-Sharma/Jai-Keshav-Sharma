@@ -90,7 +90,7 @@
 
 <h2 align="left"><strong>What do I know?</strong></h2>
 <ul style="line-height: 1.8;">
-  <li><strong>Generative AI Frameworks:</strong> LangChain, HuggingFace — teaching machines to talk so they can ignore me better</li>
+  <li><strong>Generative AI Frameworks:</strong> LangChain, Llama-Index, HuggingFace — teaching machines to talk so they can ignore me better</li>
   <li><strong>Agentic AI Frameworks:</strong> LangGraph, OpenAI Agents SDK, CrewAI, AutoGen, MCP — giving AI just enough freedom to cause chaos</li>
   <li><strong>LLM Engineering:</strong> RAG, Fine-Tuning, Context Engineering — because apparently, telling AI what I want is rocket science</li>
   <li><strong>LLMOps / AIOps</strong> — “trust me, it scales”</li>
@@ -111,6 +111,8 @@
 
 <h2 align="left"><strong>🏆 What I have done?</strong></h2>
 <ul style="line-height: 1.8;">
+  <li><strong>MAITRI AI – Intelligent Psychological Companion (Smart India Hackathon)</strong>: Led a 5-member AI crew building a space-ready psychological companion that reads astronauts’ voices and faces in real-time, detects emotions with 92% accuracy, and responds naturally — basically an AI therapist keeping space crews sane while boosting mission efficiency by 35%.</li>
+  <li><strong>BioSage – AI Knowledge Engine (NASA Space Apps 2025)</strong>: Built a multi-agent AI knowledge engine that ingested 600+ space-biology papers and all NASA official domains, delivered 98% citation accuracy, and let researchers pull insights 80% faster</li>
   <li><strong>Built a RAG-based chatbot</strong> deployed on my portfolio site to answer recruiters' and stalkers' questions — and promptly snitch if they get weird</li>
   <li><strong>Created a Multi-Agent Deep Research System</strong> capable of parallel information retrieval, reflection-based reasoning, and automated generation of structured research reports with improved coherence and depth. — because one AI just wasn't enough chaos</li>
   <li><strong>Assembled a multi-agent AI engineering team</strong> with a lead, frontend, backend, and tester — all working tirelessly to do my bidding</li>
