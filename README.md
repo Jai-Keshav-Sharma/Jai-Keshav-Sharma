@@ -72,10 +72,15 @@
 <h2 align="left"><strong>What am I doing?</strong></h2>
 <ul style="line-height: 1.8;">
   <li><strong>Building autonomous agents</strong> so they can take over the boring tasks (and maybe the world someday)</li>
+  <li><strong>Deploying production AI systems at Debales</strong> — real clients, real stakes, way less room for "oops, wrong API key"</li>
+  <li><strong>Building Warden</strong> — a pre-action authorization layer for AI agents, because right now the average 
+  agent fails ~57% of multi-step tasks and nobody's stopping it *before* it does something dumb with 
+  your production database</li>
+  <li><strong>Building real-time voice AI systems</strong> — (LiveKit, Deepgram, Cartesia) — teaching machines to pick up the phone so I don't have to</li>
+  <li><strong>Working on an autonomous stock trading environment</strong> — teaching AI to lose money faster than I can</li>
   <li><strong>Crafting AI workflows</strong> that pretend to understand what I actually want</li>
   <li><strong>Fine-tuning LLMs</strong> — because the base model clearly didn't get my sarcasm</li>
-  <li><strong>Using MCP and RAG</strong> to confuse both machines and humans alike</li>
-  <li><strong>Working on an autonomous stock trading environment</strong> — teaching AI to lose money faster than I can</li>
+  <!-- <li><strong>Using MCP and RAG</strong> to confuse both machines and humans alike</li> -->
 </ul>
 
 
@@ -93,7 +98,12 @@
   <li><strong>Generative AI Frameworks:</strong> LangChain, Llama-Index, HuggingFace — teaching machines to talk so they can ignore me better</li>
   <li><strong>Agentic AI Frameworks:</strong> LangGraph, OpenAI Agents SDK, CrewAI, AutoGen, MCP — giving AI just enough freedom to cause chaos</li>
   <li><strong>LLM Engineering:</strong> RAG, Fine-Tuning, Context Engineering — because apparently, telling AI what I want is rocket science</li>
-  <li><strong>LLMOps / AIOps</strong> — “trust me, it scales”</li>
+  <li><strong>Voice AI and Real-Time Systems</strong> — LiveKit, Deepgram, Cartesia — teaching machines to answer the 
+  phone so I don't have to</li>
+  <li><strong>AI Observability:</strong> LangSmith, LangFuse, OpenTelemetry — so when the agent inevitably breaks, 
+  I at least know why</li>
+  <li><strong>Cloud and Deployment</strong> — AWS (Bedrock, SageMaker), GCP, Azure, Vercel, Docker, Kubernetes — shipping this 
+  stuff somewhere that isn't my laptop</li>
   <li><strong>Machine Learning & Deep Learning Algorithms</strong> — the wizardry behind all my AI "accidents"</li>
   <li><strong>Natural Language Processing</strong> — making computers pretend they get human nonsense</li>
   <li><strong>Data Structures & Algorithms in C++</strong> — because sometimes you need to make things <em>needlessly</em> complicated</li>
@@ -111,6 +121,9 @@
 
 <h2 align="left"><strong>🏆 What I have done?</strong></h2>
 <ul style="line-height: 1.8;">
+  <li><strong>Shipped a real-time voice AI system at Debales</strong> using LiveKit, Deepgram, and Cartesia — 
+  it answers calls, handles escalations, and transfers to humans without ever needing a coffee break.</li>
+  <li><strong>Built AI agents for logistics and e-commerce clients</strong> across multiple platforms and integrations.</li>
   <li><strong>MAITRI AI – Intelligent Psychological Companion (Smart India Hackathon)</strong>: Led a 5-member AI crew building a space-ready psychological companion that reads astronauts’ voices and faces in real-time, detects emotions with 92% accuracy, and responds naturally — basically an AI therapist keeping space crews sane while boosting mission efficiency by 35%.</li>
   <li><strong>BioSage – AI Knowledge Engine (NASA Space Apps 2025)</strong>: Built a multi-agent AI knowledge engine that ingested 600+ space-biology papers and all NASA official domains, delivered 98% citation accuracy, and let researchers pull insights 80% faster</li>
   <li><strong>Built a RAG-based chatbot</strong> deployed on my portfolio site to answer recruiters' and stalkers' questions — and promptly snitch if they get weird</li>
@@ -137,8 +150,8 @@
 <h2 align="left"><strong>What I want to do?</strong></h2>
 <ul style="line-height: 1.8;">
   <li><strong>I want to do something for social good</strong> — because saving the world looks better on LinkedIn</li>
-  <li><strong>Work with experienced pros in AI and Data Science</strong> — so I can pretend I know what I'm doing</li>
-  <li><strong>And eventually, create commercial projects</strong> — because apparently, AI skills pay the bills too</li>
+  <li><strong>Keep shipping production AI at scale</strong> — turns out commercial AI pays better than my imaginary stock trading bot</li>
+  <li><strong>Land a role as an AI Engineer or Forward-Deployed AI Engineer</strong>— less "pretending to know what I'm doing," more actually doing it, on someone's production systems instead of just mine.</li>
 </ul>
 
 </div>
